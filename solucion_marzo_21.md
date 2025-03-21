@@ -2,7 +2,7 @@
 classDiagram
 
 class Habitacion {
--int nuemro
+-int numero
 -string tipo
 -bool ocupada
 +Habitacion(int num, string t)
